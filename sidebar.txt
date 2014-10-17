@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lls:home|Door43 (lls)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lls|d43-lls repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lls/archive/master.zip|d43-lls.zip]]
+
+**Recent Changes**
+{{changes>ns = lls}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lls|Ethnologue data]]
+
